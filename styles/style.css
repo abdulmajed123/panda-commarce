@@ -160,13 +160,24 @@ background: linear-gradient(180.00deg, rgb(255, 88, 155) -0.006%,rgb(255, 19, 11
   margin: 20px auto;
 }
 
-.see-all{
+.see-all {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  /* margin-bottom: 0; */
 
 }
+.see-all h2{
+  font-size: 36px;
+  font-weight: 600;
+  color: #1F1F1F;
+}
 
+.see-all{
+  font-size: 20px;
+  font-weight: 500;
+  color: #FF9D00;
+}
 
 
 
